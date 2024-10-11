@@ -35,9 +35,6 @@ I developed a CNN model with 92% accuracy for emotion detection in female voices
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=suhasmodi&limit=5&theme=merko&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=suhasmodi&icon=5&color=1)](https://visitcount.itsvg.in)
 
