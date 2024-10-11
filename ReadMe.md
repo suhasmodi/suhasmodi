@@ -1,6 +1,23 @@
 # 💫 About Me:
-🔭 I’m currently working on data science and machine learning<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭Here's a brief summary for your GitHub profile based on your resume:
 
+### 🔭 I’m currently working on
+Developing machine learning models and predictive analytics for real-time applications, such as emotion detection and object detection at traffic signals.And Currently working on drivesafex which will detect driver is sleeping or not and alert driver while driving also it will detect mobile phone while driving and seat belt detection using opencv ,yolo and deep learning . 
+
+### 👯 I’m looking to collaborate on
+Data science and machine learning projects, especially in areas like predictive modeling, computer vision, and data visualization.
+
+### 🤝 I’m looking for help with
+Improving model performance in complex datasets and fine-tuning advanced neural networks for better accuracy.
+
+### 🌱 I’m currently learning
+Advanced deep learning architectures like CNNs, and optimizing models with TensorFlow and Power BI for better insights and decision-making.
+
+### 💬 Ask me about
+Machine learning, predictive modeling, data visualization, and real-time object detection with YOLO.
+
+### ⚡ Fun fact
+I developed a CNN model with 92% accuracy for emotion detection in female voices and used YOLO for real-time car and human detection at traffic signals.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suhas-modi-10615a203/) 
