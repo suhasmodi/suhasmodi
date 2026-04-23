@@ -1,7 +1,9 @@
 # 💫 About Me:
 
 ### 🔭 I’m currently working on
-Developing machine learning models and predictive analytics for real-time applications, such as emotion detection and object detection at traffic signals.And Currently working on drivesafex which will detect driver is sleeping or not and alert driver while driving also it will detect mobile phone while driving and seat belt detection using opencv ,yolo and deep learning . 
+AI/ML Developer with 1+ years of experience building computer vision and LLM-powered systems. Delivered production-grade defect
+detection models, which reduced manual inspection time, and RAG-based multilingual AI systems over large document corpora. Strong
+expertise in Python, deep learning, retrieval systems and OpenCV.
 
 ### 👯 I’m looking to collaborate on
 Data science and machine learning projects, especially in areas like predictive modeling, computer vision, and data visualization.
