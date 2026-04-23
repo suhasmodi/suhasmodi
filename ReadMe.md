@@ -1,5 +1,4 @@
 # 💫 About Me:
-🔭Here's a brief summary for your GitHub profile based on your resume:
 
 ### 🔭 I’m currently working on
 Developing machine learning models and predictive analytics for real-time applications, such as emotion detection and object detection at traffic signals.And Currently working on drivesafex which will detect driver is sleeping or not and alert driver while driving also it will detect mobile phone while driving and seat belt detection using opencv ,yolo and deep learning . 
